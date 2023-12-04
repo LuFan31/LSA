@@ -1,0 +1,13 @@
+clip/
+clip_w_local/
+configs/
+dassl/
+datasets/
+lpclip/
+openood/
+trainer/
+imagenet**
+inter**
+lsa.sh
+train**
+RUN.md
